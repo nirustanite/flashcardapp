@@ -39,5 +39,15 @@ flashcards = {
     {
         word: "Bloemkool",
         translation: "Cauliflower"
-    }]
+    }],
+    tamil: [
+    {
+        word: ""
+
+    }
+
+
+
+
+    ]
 }
