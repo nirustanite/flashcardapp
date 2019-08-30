@@ -1,4 +1,31 @@
+main{
+    background: white;
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 2rem 0;
+}
+
 h1{
     text-align:center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.languages{
+    display: flex;
+    flex-direction: row;
+}
+
+.imageobject {
+    max-width: 90%;
+    max-height: 30rem;
+    margin: 10rem; 
+}
+
+p{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:30px;
+    text-align: center;
+    display:block;
 }
